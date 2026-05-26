@@ -1,11 +1,11 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import homeLogo from "../../Assets/home-main.svg";
+import homeLogo from "../../Assets/it-guy.png";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
 import Techstack from "../About/Techstack";
-import Github from "../About/Github";
+//import Github from "../About/Github";
 import {
   AiFillGithub,
   AiOutlineTwitter,
