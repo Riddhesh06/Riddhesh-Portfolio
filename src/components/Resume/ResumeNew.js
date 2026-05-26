@@ -32,12 +32,14 @@ function ResumeNew() {
         </Row>
 
         <Row className="resume">
+          <p> Preview of my CV .  My Full CV is available to download above.</p>
           <Document file={pdf} className="d-flex justify-content-center">
             <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} />
+            <br />
           </Document>
         </Row>
 
-        <Row style={{ justifyContent: "center", position: "relative" }}>
+        {/* <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
             href={pdf}
@@ -47,7 +49,7 @@ function ResumeNew() {
             <AiOutlineDownload />
             &nbsp;Download CV
           </Button>
-        </Row>
+        </Row> */}
       </Container>
     </div>
   );

@@ -21,7 +21,7 @@ function AboutCard() {
             <br />
             I have graduated at{" "}
             <span className="purple">University of Greenwich</span> with a degree in{" "}
-            <span className="purple">MSc Computer Science</span>.
+            <span className="purple">MSc Data Science</span>.
             
             <br />
             <br />
