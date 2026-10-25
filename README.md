@@ -35,4 +35,4 @@ This project was built using these technologies.
 - VsCode
 - Netlify
 
-Thank you !! ❤️
+Thank you !! ❤️ 
