@@ -31,6 +31,17 @@ function Projects() {
               ghLink="https://github.com/Riddhesh06/Task-management-Web-App"
               demoLink="https://task-management-seven-psi.vercel.app/"
             />
+            <ProjectCard
+              imgPath={task_management}
+              isBlog={false}
+              title="Churn detection using Machine Learning"
+              description="A machine learning model designed to predict customer churn 
+                            in a telecommunications company. The model uses historical 
+                            data to identify patterns and factors that contribute to 
+                            customer attrition, enabling proactive retention strategies."
+              ghLink="https://github.com/Riddhesh06/Customer-Churn-Predictor"
+              demoLink=""
+            />
           </Col>
         </Row>
       </Container>

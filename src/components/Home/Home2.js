@@ -13,8 +13,9 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am a Software and Data Engineer with 2+ years of commercial experience building high-performance automation
-              frameworks, machine learning pipelines, and data-driven applications in banking, insurance, and AI research.
+              Software and Data Engineer with 2+ years of commercial experience designing 
+              high-performance automation frameworks, machine learning pipelines, and 
+              scalable data solutions across banking, insurance, and AI research.
               <br />
               <br />
               I’m proficient in
@@ -31,7 +32,7 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  Web Applications, areas in Blockchain,{" "}
+                  Web Applications, Blockchain, building and testing models{" "}
                 </b>
               </i>
               and exploring new ways to bridge on-chain and off-chain systems.
